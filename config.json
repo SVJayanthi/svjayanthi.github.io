@@ -3,9 +3,12 @@
   "username": "SVJayanthi",
   "name": null,
   "userimg": "https://avatars0.githubusercontent.com/u/31488148?v=4",
-  "sort": "created",
-  "order": "asc",
+  "sort": "star",
+  "order": "desc",
   "includeFork": false,
-  "theme": "light.css"
+  "theme": "light.css",
+  "types": [
+   "all"
+  ]
  }
 ]
